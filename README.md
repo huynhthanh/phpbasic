@@ -1,2 +1,2 @@
 # phpbasic
-PHP
+php basic
